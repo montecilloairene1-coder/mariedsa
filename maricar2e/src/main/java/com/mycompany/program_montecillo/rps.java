@@ -103,12 +103,4 @@ public class rps {
         });
     }
 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> {
-            new CAFE_MENU().setVisible(true);
-        });
-    }
-}
-
-
-}
+    
